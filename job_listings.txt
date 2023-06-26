@@ -1,339 +1,489 @@
 Fetching from: https://jobs.ashbyhq.com/docker
 
-Department: Customer Success (General):
-Href:/docker/55030e5d-e369-44c7-866c-a66894bc638c
+Department: 
+Customer Success (General)
+
 Job title: Technical Project Manager (Customer Success)
+Href:/docker/55030e5d-e369-44c7-866c-a66894bc638c
 
+Department: 
+Engineering
 
-Department: Engineering:
-Href:/docker/3406aabc-0134-4318-9e3b-26be0631343a
 Job title: Backend Engineer (Build)
-Href:/docker/238e633e-2425-4ed1-9a19-1d3bc32b0754
+Href:/docker/3406aabc-0134-4318-9e3b-26be0631343a
+
 Job title: Backend Engineer (Desktop Platform)
-Href:/docker/4730d890-f3f6-4b12-8ea7-cac740c45dd4
+Href:/docker/238e633e-2425-4ed1-9a19-1d3bc32b0754
+
 Job title: Backend Engineer (Environments)
-Href:/docker/370a5c5d-914f-4a5b-bba7-d957855d61b6
+Href:/docker/4730d890-f3f6-4b12-8ea7-cac740c45dd4
+
 Job title: Backend Engineer (Registry)
-Href:/docker/6368ccad-8850-43c5-b2a7-02f16736e406
+Href:/docker/370a5c5d-914f-4a5b-bba7-d957855d61b6
+
 Job title: Backend Engineer (Software Supply Chain - Clojure)
-Href:/docker/28152619-7545-490b-b4bd-e0a0aabea399
+Href:/docker/6368ccad-8850-43c5-b2a7-02f16736e406
+
 Job title: Backend Engineer (Software Supply Chain)
-Href:/docker/633e31cf-77f5-452b-9dce-48b433adebc0
+Href:/docker/28152619-7545-490b-b4bd-e0a0aabea399
+
 Job title: Backend Engineer (Team Publisher)
-Href:/docker/60cc4fc9-9773-4f43-801b-a9d19aebfbd5
+Href:/docker/633e31cf-77f5-452b-9dce-48b433adebc0
+
 Job title: Manager, Engineering (Registry)
-Href:/docker/269cffa0-c0ed-4cb2-a75e-dcb7b38dbc98
+Href:/docker/60cc4fc9-9773-4f43-801b-a9d19aebfbd5
+
 Job title: Manager, Engineering (Software Supply Chain)
-Href:/docker/02e8ffe2-e0d3-4268-a090-9223d45c65f9
+Href:/docker/269cffa0-c0ed-4cb2-a75e-dcb7b38dbc98
+
 Job title: Senior Backend Engineer (Desktop Platform)
-Href:/docker/5b441a6a-8ae3-4b25-b441-a9a3ec1e6507
+Href:/docker/02e8ffe2-e0d3-4268-a090-9223d45c65f9
+
 Job title: Senior Backend Engineer (Runtime/Networking)
-Href:/docker/9cca946c-0740-46eb-8581-c32ca59a52b6
+Href:/docker/5b441a6a-8ae3-4b25-b441-a9a3ec1e6507
+
 Job title: Senior Backend Engineer (Software Supply Chain)
-Href:/docker/2766385c-856b-429c-9110-39217ded51bc
+Href:/docker/9cca946c-0740-46eb-8581-c32ca59a52b6
+
 Job title: Senior Data Engineer (Ecosystem)
-Href:/docker/c12573ce-c05a-43c8-b00d-8e98c60f2ff4
+Href:/docker/2766385c-856b-429c-9110-39217ded51bc
+
 Job title: Senior Frontend Engineer (Developer Platform)
-Href:/docker/3c130525-bb31-47f1-a5c0-b2a21244b163
+Href:/docker/c12573ce-c05a-43c8-b00d-8e98c60f2ff4
+
 Job title: Senior Full Stack Engineer (Publisher Team)
-Href:/docker/ccfc0388-3be8-42a9-ad85-09c51ace332e
+Href:/docker/3c130525-bb31-47f1-a5c0-b2a21244b163
+
 Job title: Senior or Staff Frontend Engineer (Software Supply Chain)
-Href:/docker/b8f8608f-6191-4285-b63d-b03900b5f159
+Href:/docker/ccfc0388-3be8-42a9-ad85-09c51ace332e
+
 Job title: Senior Software Engineer (Desktop Stability)
-Href:/docker/fd68ab6e-aba9-4973-86dc-3ba213ace1b2
+Href:/docker/b8f8608f-6191-4285-b63d-b03900b5f159
+
 Job title: Senior Software Engineer (Developer Activation)
-Href:/docker/7958497a-033e-4349-888a-8b944e1f9cfd
+Href:/docker/fd68ab6e-aba9-4973-86dc-3ba213ace1b2
+
 Job title: Senior Software Engineer (Performance)
-Href:/docker/6f8b62a1-ca58-4ac2-90a0-1c3e18a44524
+Href:/docker/7958497a-033e-4349-888a-8b944e1f9cfd
+
 Job title: Senior Software Engineer (Programmable OS)
-Href:/docker/1f3dd704-884e-4bee-827d-e3022742029c
+Href:/docker/6f8b62a1-ca58-4ac2-90a0-1c3e18a44524
+
 Job title: Software Engineer (Docker Official Images)
-Href:/docker/6693e025-0525-4323-ac72-558cbd5bd4d2
+Href:/docker/1f3dd704-884e-4bee-827d-e3022742029c
+
 Job title: Staff Backend Engineer (Cloud Dev)
+Href:/docker/6693e025-0525-4323-ac72-558cbd5bd4d2
 
+Department: 
+General & Administrative
 
-Department: General & Administrative:
-Href:/docker/2237106b-1951-4a90-bd19-30a7ee4b5381
 Job title: Director, Business Data
-Href:/docker/f27e089c-7706-45ab-b15d-ac55600cb6d7
+Href:/docker/2237106b-1951-4a90-bd19-30a7ee4b5381
+
 Job title: Operations Assistant
-Href:/docker/c9d639ea-0ad7-480a-9cec-2595750ac926
+Href:/docker/f27e089c-7706-45ab-b15d-ac55600cb6d7
+
 Job title: Principal Technical Systems Designer
-Href:/docker/d8f2291b-795f-4947-8e2f-3dda65f52d2c
+Href:/docker/c9d639ea-0ad7-480a-9cec-2595750ac926
+
 Job title: Senior Detection & Response Engineer
-Href:/docker/9a2a18bc-10d1-4ace-99b8-c15c4d508b35
+Href:/docker/d8f2291b-795f-4947-8e2f-3dda65f52d2c
+
 Job title: Senior Financial Analyst, GTM
-Href:/docker/300c7443-5812-4493-b568-aeb56ad621c3
+Href:/docker/9a2a18bc-10d1-4ace-99b8-c15c4d508b35
+
 Job title: Strategic Finance, Product
+Href:/docker/300c7443-5812-4493-b568-aeb56ad621c3
 
+Department: 
+Marketing
 
-Department: Marketing:
-Href:/docker/43186193-421e-4e07-a944-296d3bf4295e
 Job title: Senior Developer Experience Manager
-Href:/docker/df468d06-692a-444b-9f82-07942596120a
+Href:/docker/43186193-421e-4e07-a944-296d3bf4295e
+
 Job title: Senior Social Media Manager
-Href:/docker/8f158285-553c-4359-bb70-df3007c34ae0
+Href:/docker/df468d06-692a-444b-9f82-07942596120a
+
 Job title: Social Strategy Director
+Href:/docker/8f158285-553c-4359-bb70-df3007c34ae0
 
+Department: 
+Products
 
-Department: Products:
-Href:/docker/c00b6d6e-4885-4d59-9035-05108d83d845
 Job title: Head of Developer Experience
-Href:/docker/4c65ca65-460b-4fc4-83d7-bdf917bca52c
+Href:/docker/c00b6d6e-4885-4d59-9035-05108d83d845
+
 Job title: Principal Product Marketing Manager (Collaboration)
-Href:/docker/eeac55a3-ffe6-4606-bc4c-363feeb52046
+Href:/docker/4c65ca65-460b-4fc4-83d7-bdf917bca52c
+
 Job title: Senior Product Designer (Software Supply Chain)
-Href:/docker/1a9718cc-51b6-4400-bafd-71323641e2f8
+Href:/docker/eeac55a3-ffe6-4606-bc4c-363feeb52046
+
 Job title: Staff Product Manager (Build)
-Href:/docker/d96377a1-de85-475b-a11a-1a878a76c0f6
+Href:/docker/1a9718cc-51b6-4400-bafd-71323641e2f8
+
 Job title: Staff Product Marketing Manager (Ecosystem)
+Href:/docker/d96377a1-de85-475b-a11a-1a878a76c0f6
 
+Department: 
+Sales
 
-Department: Sales:
-Href:/docker/cc084408-e8e4-404c-b189-3bd146e2946e
 Job title: Account Executive, Docker Scout Product Specialist
-Href:/docker/04fa92ae-b125-41fe-8ef4-e704b8cf9f15
+Href:/docker/cc084408-e8e4-404c-b189-3bd146e2946e
+
 Job title: Growth & Renewals, Mid-Market
-Href:/docker/bd77f010-eacf-4b47-b022-5c7ce7fd7486
+Href:/docker/04fa92ae-b125-41fe-8ef4-e704b8cf9f15
+
 Job title: Strategic Account Executive, FinServe (Northeastern US Only)
+Href:/docker/bd77f010-eacf-4b47-b022-5c7ce7fd7486
+
 
 
 Fetching from: https://jobs.ashbyhq.com/quora
 
-Department: Engineering:
-Href:/quora/300b6c66-b6f0-4aa3-a741-ef0a0fa3a0ad
+Department: 
+Engineering
+
 Job title: Senior Android Engineer - Poe (Remote)
-Href:/quora/0cd4ff2a-7c15-4621-8f5f-11ece07c9b1e
+Href:/quora/300b6c66-b6f0-4aa3-a741-ef0a0fa3a0ad
+
 Job title: Senior iOS Engineer - Poe (Remote)
-Href:/quora/f569f032-1c4d-4a85-895b-2fbff89b4df9
+Href:/quora/0cd4ff2a-7c15-4621-8f5f-11ece07c9b1e
+
 Job title: Staff Machine Learning Engineer - Language Modeling (Remote)
+Href:/quora/f569f032-1c4d-4a85-895b-2fbff89b4df9
 
+Department: 
+Marketing
 
-Department: Marketing:
-Href:/quora/85d736c8-0d0d-4563-a514-8c6a52aab8ca
 Job title: Product Marketing Lead - Poe (Remote)
+Href:/quora/85d736c8-0d0d-4563-a514-8c6a52aab8ca
 
+Department: 
+Sales
 
-Department: Sales:
-Href:/quora/22cb8cff-b954-47f6-a475-7d8598270b5c
 Job title: Account Executive (Remote)
+Href:/quora/22cb8cff-b954-47f6-a475-7d8598270b5c
+
 
 
 Fetching from: https://jobs.ashbyhq.com/linear
 
-Department: Company:
+Department: 
+Company
+
+Job title: Opportunistic
 Href:/linear/342b329b-f0f0-4034-bc22-8996d716e93e
+
 Job title: Opportunistic
 Href:/linear/ae8f25a2-ce51-49dd-9ab6-af6734b4e2f4
-Job title: Opportunistic
 
+Department: 
+Customer Experience
 
-Department: Customer Experience:
-Href:/linear/9e465380-ec60-488f-9845-8d8e61df0e5a
 Job title: Customer Operations Lead
+Href:/linear/9e465380-ec60-488f-9845-8d8e61df0e5a
 
+Department: 
+Design
 
-Department: Design:
-Href:/linear/f30b8aee-b810-4262-9543-ab0987cb3c96
 Job title: Head of Product Design 
+Href:/linear/f30b8aee-b810-4262-9543-ab0987cb3c96
+
+Job title: Senior Product Designer
 Href:/linear/d99b3f51-cbdf-4082-b393-75dc79e42c13
+
 Job title: Senior Product Designer
 Href:/linear/a039835d-cde7-42ef-8250-80c3dc0ed9cf
-Job title: Senior Product Designer
 
+Department: 
+Engineering
 
-Department: Engineering:
-Href:/linear/069c4628-88d7-4e4d-b393-c996fc7f3076
 Job title: Senior - Staff Frontend Engineer
+Href:/linear/069c4628-88d7-4e4d-b393-c996fc7f3076
+
+Job title: Senior - Staff Fullstack Engineer
 Href:/linear/cd5ae036-0223-427a-b038-ba16ef9dcb32
+
 Job title: Senior - Staff Fullstack Engineer
 Href:/linear/d3bc1ced-3ce4-4086-a050-555055dbb1ff
-Job title: Senior - Staff Fullstack Engineer
-Href:/linear/0ba80a46-e912-4a66-9231-b2d609b2c48d
+
 Job title: Senior - Staff Mobile Engineer (iOS)
+Href:/linear/0ba80a46-e912-4a66-9231-b2d609b2c48d
 
+Department: 
+Marketing
 
-Department: Marketing:
-Href:/linear/9a28189d-d4cb-4c7e-b6a9-4758dc900367
 Job title: Marketing Lead
+Href:/linear/9a28189d-d4cb-4c7e-b6a9-4758dc900367
 
+Department: 
+Sales
 
-Department: Sales:
-Href:/linear/a0d9a6cf-b7ef-46c1-97b8-c2cb6fa95772
 Job title: Customer Success Manager
+Href:/linear/a0d9a6cf-b7ef-46c1-97b8-c2cb6fa95772
+
 
 
 Fetching from: https://jobs.ashbyhq.com/multiverse
 
-Department: Admissions:
-Href:/multiverse/19a3f9dc-22bd-4cd9-9451-f6bc48cacfbd
+Department: 
+Admissions
+
 Job title: Enterprise Launch Manager, US
+Href:/multiverse/19a3f9dc-22bd-4cd9-9451-f6bc48cacfbd
 
+Department: 
+Customer Success
 
-Department: Customer Success:
-Href:/multiverse/afe7906e-3c7e-4e94-980e-97551c707674
 Job title: Enterprise Customer Success Manager, UK
-Href:/multiverse/d1b08af2-00ae-4328-8413-1e3cfa919deb
+Href:/multiverse/afe7906e-3c7e-4e94-980e-97551c707674
+
 Job title: Enterprise Customer Success Manager, US
+Href:/multiverse/d1b08af2-00ae-4328-8413-1e3cfa919deb
 
+Department: 
+Delivery
 
-Department: Delivery:
-Href:/multiverse/dde342f5-d4e5-44f3-99a6-2c7d0814b527
 Job title: Data Coach, UK
-Href:/multiverse/466ce611-d398-41ee-959a-936935a1b330
+Href:/multiverse/dde342f5-d4e5-44f3-99a6-2c7d0814b527
+
 Job title: Functional Skills Associate English, UK
-Href:/multiverse/9a5efb52-8253-4e92-bc0b-1e4e840c8bd0
+Href:/multiverse/466ce611-d398-41ee-959a-936935a1b330
+
 Job title: Senior Director of Programmes, UK 
+Href:/multiverse/9a5efb52-8253-4e92-bc0b-1e4e840c8bd0
 
+Department: 
+Finance
 
-Department: Finance:
-Href:/multiverse/dbd20298-d410-4a52-9617-01633c9f5528
 Job title: Global Financial Controller
+Href:/multiverse/dbd20298-d410-4a52-9617-01633c9f5528
 
+Department: 
+Learning
 
-Department: Learning:
-Href:/multiverse/afdf3fa1-a125-45c9-8752-f1a73f5e0a35
 Job title: Assessment Designer, UK
-Href:/multiverse/59f62be7-9556-4c82-af40-8cd19559f303
+Href:/multiverse/afdf3fa1-a125-45c9-8752-f1a73f5e0a35
+
 Job title: Director of Learning Product Management, UK
-Href:/multiverse/935530b2-e4cf-4bed-97c0-e353087518b5
+Href:/multiverse/59f62be7-9556-4c82-af40-8cd19559f303
+
 Job title: Director of Learning Product Management, US
-Href:/multiverse/e89d3427-92b2-4daa-a5fc-281a15508233
+Href:/multiverse/935530b2-e4cf-4bed-97c0-e353087518b5
+
 Job title: Instructional Designer, US
-Href:/multiverse/295ed3ef-8376-405f-bc05-1cf4d1e28d61
+Href:/multiverse/e89d3427-92b2-4daa-a5fc-281a15508233
+
 Job title: Learning Designer, UK 
-Href:/multiverse/fc033fc4-853c-42f9-80ba-17897428e546
+Href:/multiverse/295ed3ef-8376-405f-bc05-1cf4d1e28d61
+
 Job title: Product Manager, Learning, UK
-Href:/multiverse/01747815-3989-416c-922c-cd426a97cc73
+Href:/multiverse/fc033fc4-853c-42f9-80ba-17897428e546
+
 Job title: Senior Product Manager, Learning, UK
+Href:/multiverse/01747815-3989-416c-922c-cd426a97cc73
 
+Department: 
+Legal
 
-Department: Legal:
-Href:/multiverse/4be9bab0-4ea1-42f8-8cf9-50c54f7342b5
 Job title: Legal Counsel, UK
+Href:/multiverse/4be9bab0-4ea1-42f8-8cf9-50c54f7342b5
 
+Department: 
+Marketing, Communications & Public Affairs
 
-Department: Marketing, Communications & Public Affairs:
-Href:/multiverse/7354038c-da20-4311-aec1-fe6bb6508048
 Job title: Digital Growth Strategy Externship
-Href:/multiverse/d1b07663-9c0d-4109-8015-e268891632cc
+Href:/multiverse/7354038c-da20-4311-aec1-fe6bb6508048
+
 Job title: Director of Government Affairs, US
-Href:/multiverse/9a3e9753-0304-4bed-82e5-7bda28a63c53
+Href:/multiverse/d1b07663-9c0d-4109-8015-e268891632cc
+
 Job title: US Strategic Partnerships Manager
+Href:/multiverse/9a3e9753-0304-4bed-82e5-7bda28a63c53
 
+Department: 
+People & Talent
 
-Department: People & Talent:
-Href:/multiverse/f46183f6-3b71-4e84-aac6-ab687dd0ca7e
 Job title: Director of People Partnering
-Href:/multiverse/6b3fa2c0-f37d-4656-86ac-4a09051b3c20
+Href:/multiverse/f46183f6-3b71-4e84-aac6-ab687dd0ca7e
+
 Job title: Employee Relations Manager, UK
-Href:/multiverse/c7a1afc3-eb92-4482-880e-b4358048b862
+Href:/multiverse/6b3fa2c0-f37d-4656-86ac-4a09051b3c20
+
 Job title: IT Executive, USA
-Href:/multiverse/5c6789d2-1ceb-4366-9301-a29eb7a935a4
+Href:/multiverse/c7a1afc3-eb92-4482-880e-b4358048b862
+
 Job title: People Operations Manager (Compliance & Payroll), UK
+Href:/multiverse/5c6789d2-1ceb-4366-9301-a29eb7a935a4
 
+Department: 
+Sales
 
-Department: Sales:
-Href:/multiverse/9a8aba3e-0bcb-41d9-accc-51f27e5d287f
 Job title: Business Development Representative
-Href:/multiverse/b366c7d8-27b9-458f-be34-81ab4156d507
+Href:/multiverse/9a8aba3e-0bcb-41d9-accc-51f27e5d287f
+
 Job title: Business Value Consultant
-Href:/multiverse/11fc5732-5c8d-4c83-a5c7-982164fe3bd9
+Href:/multiverse/b366c7d8-27b9-458f-be34-81ab4156d507
+
 Job title: Enterprise Account Executive (Northeast Region, US)
-Href:/multiverse/663818dc-e30a-4e69-bef9-9baa678ca701
+Href:/multiverse/11fc5732-5c8d-4c83-a5c7-982164fe3bd9
+
 Job title: Enterprise Account Executive, UK
-Href:/multiverse/adce217c-a344-43a6-ad00-d4d41c6f01cb
+Href:/multiverse/663818dc-e30a-4e69-bef9-9baa678ca701
+
 Job title: Go-To-Market Data and Strategy - MBA Intern
-Href:/multiverse/e2e0712c-4bc9-44f7-9b87-3eeb5d54f4c9
+Href:/multiverse/adce217c-a344-43a6-ad00-d4d41c6f01cb
+
 Job title: Partnerships Manager, UK
+Href:/multiverse/e2e0712c-4bc9-44f7-9b87-3eeb5d54f4c9
+
 
 
 Fetching from: https://jobs.ashbyhq.com/notion
 
+No current job listings
+
+
 Fetching from: https://jobs.ashbyhq.com/duolingo
+
+No current job listings
+
 
 Fetching from: https://jobs.ashbyhq.com/retool
 
+No current job listings
+
+
 Fetching from: https://jobs.ashbyhq.com/reddit
+
+No current job listings
+
 
 Fetching from: https://jobs.ashbyhq.com/replit
 
-Department: Business:
-Href:/replit/b0775393-f30d-4680-9a9f-f64ba90e8fbd
+Department: 
+Business
+
 Job title: B2B GTM Lead
-Href:/replit/2c6264fd-716a-4b7f-b947-9e592d3835af
+Href:/replit/b0775393-f30d-4680-9a9f-f64ba90e8fbd
+
 Job title: Lifecycle & Marketing Operations Manager
-Href:/replit/29d46573-a75d-4750-b942-0a2e2aea1390
+Href:/replit/2c6264fd-716a-4b7f-b947-9e592d3835af
+
 Job title: Marketing Specialist
-Href:/replit/c59bbb2e-5059-4522-afb3-d501e053dd37
+Href:/replit/29d46573-a75d-4750-b942-0a2e2aea1390
+
 Job title: Senior Accountant
-Href:/replit/c3b12b9f-2c6a-484e-beb1-342af17d5f7d
+Href:/replit/c59bbb2e-5059-4522-afb3-d501e053dd37
+
 Job title: Senior Product Marketing Manager
+Href:/replit/c3b12b9f-2c6a-484e-beb1-342af17d5f7d
 
+Department: 
+Design
 
-Department: Design:
-Href:/replit/211c9365-517c-4764-a345-1d02894f6024
 Job title: Lead UX Researcher
-Href:/replit/670ccdf8-9b20-4c03-972e-a59fe4923265
+Href:/replit/211c9365-517c-4764-a345-1d02894f6024
+
 Job title: Research Coordinator
+Href:/replit/670ccdf8-9b20-4c03-972e-a59fe4923265
 
+Department: 
+Engineering
 
-Department: Engineering:
-Href:/replit/ad0ee7e1-6853-42a4-b469-cb77d89a8084
 Job title: AI Engineer
-Href:/replit/5fb2592a-4dbe-4c57-a95e-4950c24e88b9
+Href:/replit/ad0ee7e1-6853-42a4-b469-cb77d89a8084
+
 Job title: Developer Advocate
-Href:/replit/cdeba2f5-67ac-4d1d-a5dd-d730d66e3599
+Href:/replit/5fb2592a-4dbe-4c57-a95e-4950c24e88b9
+
 Job title: Engineering Manager, Platform
-Href:/replit/4be32d45-bc01-4619-abd3-e13d7519d7a3
+Href:/replit/cdeba2f5-67ac-4d1d-a5dd-d730d66e3599
+
 Job title: Partner Integrations Tech Lead Manager
-Href:/replit/f507d847-6c26-4036-be61-e1a7c9c91c8e
+Href:/replit/4be32d45-bc01-4619-abd3-e13d7519d7a3
+
 Job title: Site Reliability Engineer
-Href:/replit/8fe2b17b-5bad-41c0-8c96-84e7b7823843
+Href:/replit/f507d847-6c26-4036-be61-e1a7c9c91c8e
+
 Job title: Software Engineer, Anti-Abuse & Security
-Href:/replit/fc90705e-31ad-4fc1-b0db-b8e3bcecf10c
+Href:/replit/8fe2b17b-5bad-41c0-8c96-84e7b7823843
+
 Job title: Software Engineer, Front End AI Infrastructure
-Href:/replit/1a6a0ba2-628d-4771-9af6-84c8e14fba3f
+Href:/replit/fc90705e-31ad-4fc1-b0db-b8e3bcecf10c
+
 Job title: Software Engineer, Platform - Distributed Systems
-Href:/replit/ee176a1e-0fe5-497a-b886-d0c53f0badc6
+Href:/replit/1a6a0ba2-628d-4771-9af6-84c8e14fba3f
+
 Job title: Software Engineer, Platform - OS
-Href:/replit/d43d2f4e-f4f3-4cb7-9db3-0fe52697deb0
+Href:/replit/ee176a1e-0fe5-497a-b886-d0c53f0badc6
+
 Job title: Support Engineer Manager
+Href:/replit/d43d2f4e-f4f3-4cb7-9db3-0fe52697deb0
 
+Department: 
+Product Management
 
-Department: Product Management:
-Href:/replit/d85e5ba9-0236-4371-a21f-89d8bce7c167
 Job title: Senior Product Manager, AI
+Href:/replit/d85e5ba9-0236-4371-a21f-89d8bce7c167
 
+Department: 
+Replit Talent Network
 
-Department: Replit Talent Network:
-Href:/replit/d738f659-f5b2-4bbe-beca-020a481dea21
 Job title: Replit Talent Network
+Href:/replit/d738f659-f5b2-4bbe-beca-020a481dea21
+
 
 
 Fetching from: https://jobs.ashbyhq.com/vanmoof
 
-Department: Hubs & Services:
-Href:/vanmoof/f8a49dce-254b-4c7a-91dc-66ac5f73fa2f
+Department: 
+Hubs & Services
+
 Job title: Berlin Assistant Hub Manager
-Href:/vanmoof/384c565f-4cfa-4a58-9b97-9c24e8a9164e
+Href:/vanmoof/f8a49dce-254b-4c7a-91dc-66ac5f73fa2f
+
 Job title: Bike Doctor Hamburg
-Href:/vanmoof/6a7ee066-3873-4301-8f30-19b00fc932b9
+Href:/vanmoof/384c565f-4cfa-4a58-9b97-9c24e8a9164e
+
 Job title: Bike Doctor Paris
-Href:/vanmoof/9ea08d1c-afa8-4dd2-89d5-1afefe3686e8
+Href:/vanmoof/6a7ee066-3873-4301-8f30-19b00fc932b9
+
 Job title: Bike Doctor Utrecht Warehouse
-Href:/vanmoof/4ed41a52-6325-45c1-a168-d814a1a095d1
+Href:/vanmoof/9ea08d1c-afa8-4dd2-89d5-1afefe3686e8
+
 Job title: Customer Support Specialist (Tokyo)
-Href:/vanmoof/045e2654-916d-458a-b26b-e96713160471
+Href:/vanmoof/4ed41a52-6325-45c1-a168-d814a1a095d1
+
 Job title: Runner Amsterdam
-Href:/vanmoof/a9b69832-efda-42ab-9073-f2f47d8fdc9c
+Href:/vanmoof/045e2654-916d-458a-b26b-e96713160471
+
+Job title: Sales Associate
+Href:/vanmoof/d493f659-3bd4-460c-8764-095c7873b4ad
+
 Job title: Sales Associate
 Href:/vanmoof/55524a4f-8cbd-4a3b-8ec2-da57e730e344
+
 Job title: Sales Associate
 Href:/vanmoof/32cdb6eb-d961-469b-89d0-e368030dea5e
+
 Job title: Sales Associate
-Href:/vanmoof/7f119e61-da00-41c2-853f-9ca349fb9089
+Href:/vanmoof/a9b69832-efda-42ab-9073-f2f47d8fdc9c
+
 Job title: Sales Associate (Tokyo)
-Href:/vanmoof/3c212e7f-34c4-45a6-8807-18eeba1f7312
+Href:/vanmoof/7f119e61-da00-41c2-853f-9ca349fb9089
+
 Job title: Warehouse Employee 
+Href:/vanmoof/3c212e7f-34c4-45a6-8807-18eeba1f7312
+
+Job title: カスタマーサポートスペシャリスト（東京）
 Href:/vanmoof/16b53ace-8d48-42cb-9da3-2088745dc129
+
+Job title: 販売スタッフ（東京）
+Href:/vanmoof/24bc32f5-cfb2-4729-9d70-1e6a110b86e6
+
+
+
+Time elapsed: 124.71865344047546 seconds
